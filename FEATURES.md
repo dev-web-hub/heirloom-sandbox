@@ -9,3 +9,4 @@
 - [ ] automate analytics report generation
 - [ ] automate invoice sending via Postmark
 - [ ] lifecoach digest generator
+- [x] baseline MVP ready
