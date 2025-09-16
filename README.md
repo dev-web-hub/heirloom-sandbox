@@ -125,3 +125,8 @@ curl https://api.openai.com/v1/models \
 
 ## features backlog
 see [FEATURES.md](FEATURES.md) for feature ideas and upgrades.
+
+---
+
+## proof sync
+see [PROOF.md](PROOF.md) for emoji sync records.
