@@ -1,0 +1,3 @@
+SEED: DAILYFLOW
+PURPOSE: dispatch MOM → PAYBOT → ANAREP → ADPRO → LIFCO → GVCOM
+OUTPUTS: sidebiz/{payment/invoices, analytics/reports, ads/campaigns, lifecoach/notes, mom/logs}

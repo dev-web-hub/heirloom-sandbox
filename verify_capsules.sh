@@ -18,3 +18,4 @@ for c in "${capsules[@]}"; do
   fi
 done
 
+DAILYFLOW capsule present
