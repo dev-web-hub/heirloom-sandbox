@@ -1,1 +1,2 @@
 0 7 * * * ~/heirloom-sandbox/./verify.sh
+30 7 * * * ~/heirloom-sandbox/capsules/DAILYFLOW/dailyflow.py
