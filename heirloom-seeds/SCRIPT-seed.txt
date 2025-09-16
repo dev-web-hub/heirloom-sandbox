@@ -1,3 +1,4 @@
+SCRIPT Newsletter Builder
 # Heirloom Seed · SCRIPT
 # Minimal starter seed (expand in future iterations)
 

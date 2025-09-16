@@ -1,3 +1,4 @@
+COURSE Curriculum
 # Heirloom Seed · COURSE
 # Minimal starter seed (expand in future iterations)
 

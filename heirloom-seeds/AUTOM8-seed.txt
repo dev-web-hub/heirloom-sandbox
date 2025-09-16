@@ -1,3 +1,4 @@
+AUTOM8 CI/CD Hub
 # Heirloom Seed · AUTOM8
 # Minimal starter seed (expand in future iterations)
 

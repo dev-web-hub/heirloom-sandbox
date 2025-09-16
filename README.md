@@ -72,6 +72,11 @@ heirloom-sandbox/
    - Publishing stub via Postmark API added.
 
 ---
+Daily Commands
+
+When working in this repo, these are the key commands to stay consistent:
+	•	Check repo health
+./verify.sh
 
 ## 🔍 Verification Commands
 
