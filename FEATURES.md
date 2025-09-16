@@ -3,3 +3,6 @@
 - [ ] batch-safe ad scheduling
 - [ ] discord/telegram push notifications
 - [ ] lifecoach habit streak counter
+- [ ] analytics export PDF
+- [ ] payment recurring billing
+- [ ] lifecoach weekly digest
