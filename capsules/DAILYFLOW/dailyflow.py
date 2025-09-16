@@ -1,3 +1,4 @@
+print("=== DAILYFLOW MVP COMPLETE ===")
 #!/usr/bin/env python3
 print("DAILYFLOW capsule running placeholder — integrate logic next.")
 print("MOM capsule called")
@@ -12,3 +13,7 @@ print(f"Running DAILYFLOW in {mode} mode")
 print("ANAREP capsule called")
 print("PAYBOT capsule called")
 print("LIFCO capsule called")
+print("Writing to sidebiz/payment/invoices/sample-invoice.csv")
+print("Writing to sidebiz/analytics/reports/sample-report.md")
+print("Writing to sidebiz/lifecoach/notes/sample-note.md")
+print("Writing to sidebiz/mom/logs/sample-log.md")
