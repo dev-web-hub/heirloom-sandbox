@@ -72,11 +72,23 @@ heirloom-sandbox/
    - Publishing stub via Postmark API added.
 
 ---
-Daily Commands
+## Daily Commands
 
 When working in this repo, these are the key commands to stay consistent:
-	•	Check repo health
-./verify.sh
+
+- **Check repo health**  
+  ./verify.sh
+
+- **Sync with GitHub**  
+  git add .  
+  git commit -m "update"  
+  git push origin main  
+
+- **Refresh seed labels (adds human-readable titles at top of seed files)**  
+  ./label_seeds.sh
+
+- **Test API keys**  
+  ./test_keys.sh
 
 ## 🔍 Verification Commands
 
