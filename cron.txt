@@ -1,0 +1,1 @@
+0 7 * * * ~/heirloom-sandbox/./verify.sh
