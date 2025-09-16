@@ -61,3 +61,5 @@ secrets/
 # Jupyter (if used)
 .ipynb_checkpoints/
 *.ipynb
+# macOS system files
+.DS_Store
