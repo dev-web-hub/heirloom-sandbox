@@ -1,0 +1,63 @@
+# -----------------------
+# Universal Git Ignore
+# -----------------------
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+pip-wheel-metadata/
+
+# Node / JS (future-proof)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS / OS noise
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Sandbox + runtime
+sandbox/
+state/
+backup/
+.tmp/
+.cache/
+dist/
+build/
+
+# Secrets / env files
+.env
+*.env
+.env.*
+heirloom-seeds/*-key.txt
+heirloom-seeds/*-token.txt
+keys/
+secrets/
+
+# Data files
+*.sqlite
+*.db
+*.pkl
+*.h5
+*.csv
+*.tsv
+*.jsonl
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+*.ipynb

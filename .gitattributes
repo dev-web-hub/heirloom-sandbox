@@ -1,0 +1,24 @@
+# Normalize line endings
+* text=auto
+
+# Treat lockfiles as text
+*.lock text
+
+# Treat shell scripts as text
+*.sh text eol=lf
+
+# Ensure python scripts run cleanly
+*.py text eol=lf
+
+# Binary files (no diffs)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.mp4 binary
+*.mp3 binary
