@@ -1,8 +1,1 @@
-ANALYTICS Tracking
-# Heirloom Seed · ANALYTICS
-# Minimal starter seed (expand in future iterations)
-
-[ANALYTICS]
-role = "capsule"
-purpose = "Hello World seed for ANALYTICS"
-status = "stub"
+ANALYTICS capsule seed — prepares business reports.
