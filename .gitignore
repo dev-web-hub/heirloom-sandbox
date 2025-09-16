@@ -64,3 +64,4 @@ secrets/
 # macOS system files
 .DS_Store
 risk/
+!sidebiz/clients/clients.csv

@@ -9,3 +9,6 @@ print("GVCOM capsule called")
 import os
 mode = os.getenv("MODE","sandbox")
 print(f"Running DAILYFLOW in {mode} mode")
+print("ANAREP capsule called")
+print("PAYBOT capsule called")
+print("LIFCO capsule called")
