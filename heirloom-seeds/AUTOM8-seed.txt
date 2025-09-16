@@ -1,0 +1,7 @@
+# Heirloom Seed · AUTOM8
+# Minimal starter seed (expand in future iterations)
+
+[AUTOM8]
+role = "capsule"
+purpose = "Hello World seed for AUTOM8"
+status = "stub"

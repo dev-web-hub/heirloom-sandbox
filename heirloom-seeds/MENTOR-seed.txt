@@ -1,0 +1,7 @@
+# Heirloom Seed · MENTOR
+# Minimal starter seed (expand in future iterations)
+
+[MENTOR]
+role = "capsule"
+purpose = "Hello World seed for MENTOR"
+status = "stub"

@@ -1,0 +1,7 @@
+# Heirloom Seed · SCRIPT
+# Minimal starter seed (expand in future iterations)
+
+[SCRIPT]
+role = "capsule"
+purpose = "Hello World seed for SCRIPT"
+status = "stub"

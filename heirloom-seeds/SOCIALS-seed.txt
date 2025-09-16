@@ -1,0 +1,7 @@
+# Heirloom Seed · SOCIALS
+# Minimal starter seed (expand in future iterations)
+
+[SOCIALS]
+role = "capsule"
+purpose = "Hello World seed for SOCIALS"
+status = "stub"

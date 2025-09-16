@@ -1,0 +1,7 @@
+# Heirloom Seed · COMMUNITY
+# Minimal starter seed (expand in future iterations)
+
+[COMMUNITY]
+role = "capsule"
+purpose = "Hello World seed for COMMUNITY"
+status = "stub"

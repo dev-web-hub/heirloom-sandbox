@@ -1,7 +1,7 @@
-# Heirloom Seed · PIPELINE
+# Heirloom Seed · MOTHER
 # Minimal starter seed (expand in future iterations)
 
-[PIPELINE]
+[MOTHER]
 role = "capsule"
-purpose = "Hello World seed for PIPELINE"
+purpose = "Hello World seed for MOTHER"
 status = "stub"

@@ -1,0 +1,7 @@
+# Heirloom Seed · MOTHER_CLONE
+# Minimal starter seed (expand in future iterations)
+
+[MOTHER_CLONE]
+role = "capsule"
+purpose = "Hello World seed for MOTHER_CLONE"
+status = "stub"

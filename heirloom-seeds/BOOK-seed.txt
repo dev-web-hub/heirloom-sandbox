@@ -1,0 +1,7 @@
+# Heirloom Seed · BOOK
+# Minimal starter seed (expand in future iterations)
+
+[BOOK]
+role = "capsule"
+purpose = "Hello World seed for BOOK"
+status = "stub"
