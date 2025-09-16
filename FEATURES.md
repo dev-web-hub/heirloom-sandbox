@@ -6,3 +6,6 @@
 - [ ] analytics export PDF
 - [ ] payment recurring billing
 - [ ] lifecoach weekly digest
+- [ ] automate analytics report generation
+- [ ] automate invoice sending via Postmark
+- [ ] lifecoach digest generator
