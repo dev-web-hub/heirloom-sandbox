@@ -120,3 +120,8 @@ curl https://api.openai.com/v1/models \
 ---
 
 👉 Do you want me to also generate a `verify.sh` script (so you can just run `./verify.sh` and it automatically checks the tree, `.env`, and API connections in one go)? That way you don’t have to type commands one by one.
+
+---
+
+## features backlog
+see [FEATURES.md](FEATURES.md) for feature ideas and upgrades.
